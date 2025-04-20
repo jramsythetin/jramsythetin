@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name João, i'm 20 years old. I Living im Rio de Janeiro - Brazil</p>
+<p align="left">My name is João, i'm 20 years old. I Living im Rio de Janeiro - Brazil</p>
 
 ###
 
@@ -43,8 +43,6 @@
 </div>
 
 ###
-
-<p align="left">Hello World!!</p>
 
 ###
 
