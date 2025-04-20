@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is João, i'm 20 years old. I Living im Rio de Janeiro - Brazil</p>
+<p align="left">My name is João, I'm 20 years old and I live in Rio de Janeiro, Brazil.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">🛠️ Tech Stack</h2>
 
 ###
 
@@ -47,8 +47,13 @@
 ###
 
 <div align="left">
+  <a href = "https://www.linkedin.com/in/joao-roberto-alves/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
+  <a/>
+  <a href = "jramsythetin@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+
+  </div>
 
 ###
