@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm focused on sharpening my skills in Java and Spring every day, getting deeper into the ecosystem and building solid back-end solutions.  <br>I've got my eyes on Kotlin and Go next always looking to expand my toolkit and stay up to date with modern tech.  <br>I enjoy tackling real-world problems through code, writing clean and efficient solutions, and constantly pushing myself to level up.</p>
+<p align="left">I'm focused on sharpening my skills in Java and Spring every day, getting deeper into the ecosystem and building solid back-end solutions. I've got my eyes on Kotlin and Go next always looking to expand my toolkit and stay up to date with modern tech. I enjoy tackling real-world problems through code, writing clean and efficient solutions, and constantly pushing myself to level up.</p>
 
 ###
 
