@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is João, I'm 20
+<p align="left">My name is João, I'm 21
   years old and I live in Rio de Janeiro, Brazil.</p>
 
 ###
@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">I'm focused on sharpening my skills in C# and .Net every day, getting deeper into the ecosystem and building solid back-end solutions. I've got my eyes on Kotlin and React next always looking to expand my toolkit and stay up to date with modern tech. I enjoy tackling real-world problems through code, writing clean and efficient solutions, and constantly pushing myself to level up.</p>
+<p align="left">I work daily with .NET, C#, and Oracle, gaining real-world experience maintaining applications. Outside of work, I’m constantly sharpening my skills, diving deeper into the .NET ecosystem, and working on personal projects. I enjoy solving real-world problems through code, writing clean and efficient solutions, and pushing myself to level up every day.</p>
 
 ###
 
@@ -20,29 +20,25 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="40" alt="cucumber logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-  <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height = "40" alt"C# logo"/>
-  <img width = "12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" alt="C# logo"/>
+  <img width="12"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" height="40" alt=".NET logo"/>
+  <img width="12"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/" height="40" alt = "JavaScript logo"/>
+  <img width="12"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="40" alt="Oracle logo"/>
+  <img width="12"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo"/>
+  <img width="12"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="Linux logo"/>
+  <img width="12"/>
+  
+  
 </div>
 
 ###
