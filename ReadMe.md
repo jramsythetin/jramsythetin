@@ -26,7 +26,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" height="40" alt=".NET logo"/>
   <img width="12"/>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/" height="40" alt = "JavaScript logo"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt = "JavaScript logo"/>
   <img width="12"/>
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="40" alt="Oracle logo"/>
