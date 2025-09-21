@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">My name is João, I'm 21 years old and I live in Rio de Janeiro, Brazil.</p>
+<p align="left">My name is João, I'm 20
+  years old and I live in Rio de Janeiro, Brazil.</p>
 
 ###
 
@@ -10,7 +11,7 @@
 
 ###
 
-<p align="left">I'm focused on sharpening my skills in Java and Spring every day, getting deeper into the ecosystem and building solid back-end solutions. I've got my eyes on Kotlin and Go next always looking to expand my toolkit and stay up to date with modern tech. I enjoy tackling real-world problems through code, writing clean and efficient solutions, and constantly pushing myself to level up.</p>
+<p align="left">I'm focused on sharpening my skills in C# and .Net every day, getting deeper into the ecosystem and building solid back-end solutions. I've got my eyes on Kotlin and React next always looking to expand my toolkit and stay up to date with modern tech. I enjoy tackling real-world problems through code, writing clean and efficient solutions, and constantly pushing myself to level up.</p>
 
 ###
 
